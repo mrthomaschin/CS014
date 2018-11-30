@@ -1,0 +1,26 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "deque": "cpp",
+        "hash_map": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "iostream": "cpp",
+        "functional": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "xlocale": "cpp",
+        "iosfwd": "cpp"
+    }
+}

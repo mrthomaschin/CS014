@@ -1,0 +1,5 @@
+Objective:
+This lab focuses on measuring running time of an algorithm and comparing multiple algorithms' running times. 
+
+We run through five different list functions with various list sizes, and add each runtime into a table.
+

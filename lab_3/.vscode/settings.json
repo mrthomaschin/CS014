@@ -1,0 +1,23 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp",
+        "xfunctional": "cpp",
+        "xtr1common": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    }
+}

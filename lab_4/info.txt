@@ -1,0 +1,7 @@
+Objective:
+This lab requires a partial implementation of a Binary Search Tree and an AVL Tree. You need to implement a delete function in a BST and a rotation function in an AVL Tree.
+
+To delete a node from a BST one must consider three scenarios: whether the objective node has no children, one child, or two children. I nested these cases in an if-else statement. I began with deleting a leaf node, as there are no special cases when deleting it. For a node with one child. I assigned the parent of the objective node as the parent of the objective node's child, and deleted the objective node for memory allocation. Lastly, for a node with two children I located the node with the smallest value in the right subtree and assigned that value to the objective node, and then erased the other node.
+
+Rotating an AVL tree has four scenarios, grouped into two parts: a single rotation or double rotation. These were all accounted for in an if-else statement. A single rotation is a simple swap of values and reassignment of children. For a double rotation, I needed to copy the child node and swap in order to create a single rotation scenario, and then call its function.
+

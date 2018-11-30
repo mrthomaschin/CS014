@@ -1,0 +1,7 @@
+Objective:
+The task of this lab is to implement a preorder and inorder traversal of a binary tree without recursion.
+
+For the preorder traversal, I created a stack of nodes. I traversed the tree using a while loops controlled by a boolean value, printing out values. At the same time, I would constantly switch the current node based on whether the children exist.
+
+I also used a stack of nodes for the inorder traversal. The key here is to traverse through the leftmost nodes. When the end of the leftmost branch is reached, it moves up and checks if there is a right child. Then through that right child traverses through it's leftmost nodes, and so forth.
+

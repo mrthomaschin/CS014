@@ -1,0 +1,4 @@
+Objective:
+Convert an infix expression to a postfix expression using the stack data structure.
+
+I began by traversing through the given postfix expression, character by character, and pushing it into a stack. I then created a nested if-else statement based on what character was pushed in. For example, if a ')' was pushed it, I would pop and write every character up to the first '('.

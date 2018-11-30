@@ -1,0 +1,1 @@
+Objective: Given a pointer pointing to a node in a given binary tree, find the next node in an inorder traversal

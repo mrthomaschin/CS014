@@ -1,0 +1,19 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "vector": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "hash_map": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp"
+    }
+}
